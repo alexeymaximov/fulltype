@@ -1,6 +1,6 @@
 {
 	"name": "alexeymaximov/fulltype",
-	"version": "1.0.0",
+	"version": "0.5.0",
 	"type": "library",
 	"description": "Type validation library for PHP.",
 	"license": "MIT",
