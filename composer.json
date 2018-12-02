@@ -1,0 +1,27 @@
+{
+	"name": "alexeymaximov/fulltype",
+	"version": "1.0.0",
+	"type": "library",
+	"description": "Type validation library for PHP.",
+	"license": "MIT",
+	"homepage": "http://arsmnemonica.com/",
+	"authors": [
+		{
+			"name": "Alexey Maximov",
+			"email": "lexmsg@mail.ru",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"email": "lexmsg@mail.ru",
+		"source": "https://github.com/alexeymaximov/fulltype"
+	},
+	"require": {
+		"php": ">= 7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"ArsMnemonica\\": "sources/"
+		}
+	}
+}
